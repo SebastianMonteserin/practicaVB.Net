@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Luis Monteserin\\source\\repos\\BdSqlServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30333AD5-67B9-4BF8-9B97-270EFD846FD0}|BdSqlServer\\BdSqlServer.vbproj|c:\\users\\luis monteserin\\source\\repos\\bdsqlserver\\bdsqlserver\\mdiparent1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{30333AD5-67B9-4BF8-9B97-270EFD846FD0}|BdSqlServer\\BdSqlServer.vbproj|solutionrelative:bdsqlserver\\mdiparent1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30333AD5-67B9-4BF8-9B97-270EFD846FD0}|BdSqlServer\\BdSqlServer.vbproj|c:\\users\\luis monteserin\\source\\repos\\bdsqlserver\\bdsqlserver\\capa presentaci\u00F2n\\frmreporteprueba.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{30333AD5-67B9-4BF8-9B97-270EFD846FD0}|BdSqlServer\\BdSqlServer.vbproj|solutionrelative:bdsqlserver\\capa presentaci\u00F2n\\frmreporteprueba.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30333AD5-67B9-4BF8-9B97-270EFD846FD0}|BdSqlServer\\BdSqlServer.vbproj|c:\\users\\luis monteserin\\source\\repos\\bdsqlserver\\bdsqlserver\\frmdatagridview-sql-consulta.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{30333AD5-67B9-4BF8-9B97-270EFD846FD0}|BdSqlServer\\BdSqlServer.vbproj|solutionrelative:bdsqlserver\\frmdatagridview-sql-consulta.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30333AD5-67B9-4BF8-9B97-270EFD846FD0}|BdSqlServer\\BdSqlServer.vbproj|c:\\users\\luis monteserin\\source\\repos\\bdsqlserver\\bdsqlserver\\frmdatagridview-sql-consulta.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{30333AD5-67B9-4BF8-9B97-270EFD846FD0}|BdSqlServer\\BdSqlServer.vbproj|solutionrelative:bdsqlserver\\frmdatagridview-sql-consulta.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30333AD5-67B9-4BF8-9B97-270EFD846FD0}|BdSqlServer\\BdSqlServer.vbproj|C:\\Users\\Luis Monteserin\\source\\repos\\BdSqlServer\\bdsqlserver\\capa presentaci\u00F2n\\frmreporteprueba.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{30333AD5-67B9-4BF8-9B97-270EFD846FD0}|BdSqlServer\\BdSqlServer.vbproj|solutionrelative:bdsqlserver\\capa presentaci\u00F2n\\frmreporteprueba.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30333AD5-67B9-4BF8-9B97-270EFD846FD0}|BdSqlServer\\BdSqlServer.vbproj|C:\\Users\\Luis Monteserin\\source\\repos\\BdSqlServer\\bdsqlserver\\capa presentaci\u00F2n\\frmgenerarreporte.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{30333AD5-67B9-4BF8-9B97-270EFD846FD0}|BdSqlServer\\BdSqlServer.vbproj|solutionrelative:bdsqlserver\\capa presentaci\u00F2n\\frmgenerarreporte.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30333AD5-67B9-4BF8-9B97-270EFD846FD0}|BdSqlServer\\BdSqlServer.vbproj|c:\\users\\luis monteserin\\source\\repos\\bdsqlserver\\bdsqlserver\\capa presentaci\u00F2n\\frminsertarcliente.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{30333AD5-67B9-4BF8-9B97-270EFD846FD0}|BdSqlServer\\BdSqlServer.vbproj|solutionrelative:bdsqlserver\\capa presentaci\u00F2n\\frminsertarcliente.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30333AD5-67B9-4BF8-9B97-270EFD846FD0}|BdSqlServer\\BdSqlServer.vbproj|C:\\Users\\Luis Monteserin\\source\\repos\\BdSqlServer\\bdsqlserver\\capa presentaci\u00F2n\\frmconsultarcliente.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{30333AD5-67B9-4BF8-9B97-270EFD846FD0}|BdSqlServer\\BdSqlServer.vbproj|solutionrelative:bdsqlserver\\capa presentaci\u00F2n\\frmconsultarcliente.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmDataGridView-SQL-Consulta.vb",
+              "DocumentMoniker": "C:\\Users\\Luis Monteserin\\source\\repos\\BdSqlServer\\BdSqlServer\\FrmDataGridView-SQL-Consulta.vb",
+              "RelativeDocumentMoniker": "BdSqlServer\\FrmDataGridView-SQL-Consulta.vb",
+              "ToolTip": "C:\\Users\\Luis Monteserin\\source\\repos\\BdSqlServer\\BdSqlServer\\FrmDataGridView-SQL-Consulta.vb",
+              "RelativeToolTip": "BdSqlServer\\FrmDataGridView-SQL-Consulta.vb",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-16T20:21:44.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmDataGridView-SQL-Consulta.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Luis Monteserin\\source\\repos\\BdSqlServer\\BdSqlServer\\FrmDataGridView-SQL-Consulta.vb",
+              "RelativeDocumentMoniker": "BdSqlServer\\FrmDataGridView-SQL-Consulta.vb",
+              "ToolTip": "C:\\Users\\Luis Monteserin\\source\\repos\\BdSqlServer\\BdSqlServer\\FrmDataGridView-SQL-Consulta.vb [Dise\u00F1o]",
+              "RelativeToolTip": "BdSqlServer\\FrmDataGridView-SQL-Consulta.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-16T20:21:42.429Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmReportePrueba.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Luis Monteserin\\source\\repos\\BdSqlServer\\BdSqlServer\\Capa Presentaci\u00F2n\\frmReportePrueba.vb",
+              "RelativeDocumentMoniker": "BdSqlServer\\Capa Presentaci\u00F2n\\frmReportePrueba.vb",
+              "ToolTip": "C:\\Users\\Luis Monteserin\\source\\repos\\BdSqlServer\\BdSqlServer\\Capa Presentaci\u00F2n\\frmReportePrueba.vb [Dise\u00F1o]",
+              "RelativeToolTip": "BdSqlServer\\Capa Presentaci\u00F2n\\frmReportePrueba.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-16T20:21:30.512Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MDIParent1.vb",
+              "DocumentMoniker": "C:\\Users\\Luis Monteserin\\source\\repos\\BdSqlServer\\BdSqlServer\\MDIParent1.vb",
+              "RelativeDocumentMoniker": "BdSqlServer\\MDIParent1.vb",
+              "ToolTip": "C:\\Users\\Luis Monteserin\\source\\repos\\BdSqlServer\\BdSqlServer\\MDIParent1.vb",
+              "RelativeToolTip": "BdSqlServer\\MDIParent1.vb",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAwwH8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-16T20:16:04.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmInsertarCliente.vb",
+              "DocumentMoniker": "C:\\Users\\Luis Monteserin\\source\\repos\\BdSqlServer\\BdSqlServer\\Capa Presentaci\u00F2n\\FrmInsertarCliente.vb",
+              "RelativeDocumentMoniker": "BdSqlServer\\Capa Presentaci\u00F2n\\FrmInsertarCliente.vb",
+              "ToolTip": "C:\\Users\\Luis Monteserin\\source\\repos\\BdSqlServer\\BdSqlServer\\Capa Presentaci\u00F2n\\FrmInsertarCliente.vb",
+              "RelativeToolTip": "BdSqlServer\\Capa Presentaci\u00F2n\\FrmInsertarCliente.vb",
+              "ViewState": "AgIAABMAAAAAAAAAAAAowCQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-16T20:08:19.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmGenerarReporte.vb",
+              "DocumentMoniker": "C:\\Users\\Luis Monteserin\\source\\repos\\BdSqlServer\\BdSqlServer\\Capa Presentaci\u00F2n\\frmGenerarReporte.vb",
+              "RelativeDocumentMoniker": "BdSqlServer\\Capa Presentaci\u00F2n\\frmGenerarReporte.vb",
+              "ToolTip": "C:\\Users\\Luis Monteserin\\source\\repos\\BdSqlServer\\BdSqlServer\\Capa Presentaci\u00F2n\\frmGenerarReporte.vb",
+              "RelativeToolTip": "BdSqlServer\\Capa Presentaci\u00F2n\\frmGenerarReporte.vb",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswBsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-16T15:39:21.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmReportePrueba.vb",
+              "DocumentMoniker": "C:\\Users\\Luis Monteserin\\source\\repos\\BdSqlServer\\BdSqlServer\\Capa Presentaci\u00F2n\\frmReportePrueba.vb",
+              "RelativeDocumentMoniker": "BdSqlServer\\Capa Presentaci\u00F2n\\frmReportePrueba.vb",
+              "ToolTip": "C:\\Users\\Luis Monteserin\\source\\repos\\BdSqlServer\\BdSqlServer\\Capa Presentaci\u00F2n\\frmReportePrueba.vb",
+              "RelativeToolTip": "BdSqlServer\\Capa Presentaci\u00F2n\\frmReportePrueba.vb",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-16T14:46:52.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmConsultarCliente.vb",
+              "DocumentMoniker": "C:\\Users\\Luis Monteserin\\source\\repos\\BdSqlServer\\BdSqlServer\\Capa Presentaci\u00F2n\\FrmConsultarCliente.vb",
+              "RelativeDocumentMoniker": "BdSqlServer\\Capa Presentaci\u00F2n\\FrmConsultarCliente.vb",
+              "ToolTip": "C:\\Users\\Luis Monteserin\\source\\repos\\BdSqlServer\\BdSqlServer\\Capa Presentaci\u00F2n\\FrmConsultarCliente.vb",
+              "RelativeToolTip": "BdSqlServer\\Capa Presentaci\u00F2n\\FrmConsultarCliente.vb",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowEoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-10T20:08:49.876Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
